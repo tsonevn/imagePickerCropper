@@ -1,0 +1,14 @@
+﻿.pick-page {
+    background-color: darkslategray;
+    font-size: 14;
+}
+
+.details-page {
+    background-color: darkslategray;
+    font-size: 24;
+}
+
+.cell-view {
+    border-width: 1;
+    border-color: lightgray;
+}
